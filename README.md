@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xarick
 - 👀 I’m python, php and C# developer.
 - 👀 I’m networking and server administrator
-- 📫 http://itone.uz
+- 📫 I’m from Andijan
 
 <!---
 xarick/xarick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
