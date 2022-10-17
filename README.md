@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://github.com/xarick">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xarick&theme=dracula&hide_border=true" style="width:100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xarick&theme=monokai-metallian&hide_border=true" style="width:100%"/>
 </a>
