@@ -1,5 +1,7 @@
 👋 Hi, I’m Xarick </br>
 
+<!--- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{xarick}/count.svg"/></p>  --->
+
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xarick&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
 
 <a href="https://github.com/xarick">
