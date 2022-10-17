@@ -5,7 +5,7 @@
 <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xarick&langs_count=8&layout=compact&theme=dracula&hide_border=true" />
 
 <a href="https://github.com/xarick">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xarick&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark&hide_border=true" />
+  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=xarick&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&theme=dark&hide_border=true&radius=10" />
 </a>
 
 <a href="https://github.com/xarick">
