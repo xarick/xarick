@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xarick
-- 👀 I’m python, php and GO developer.
+- 👀 I’m Python, PHP and GO developer
 - 👀 I’m networking and server administrator
 - 📫 I’m from Andijan
 
